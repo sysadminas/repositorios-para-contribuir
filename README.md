@@ -1,4 +1,4 @@
-# repositorios-para-contribuir
+# Repositorios para contribuir
 Sugestões de repositórios open source para contribuir na live da Comunidade SysAdminas.
 
 ## Produtos Open Source ##
