@@ -37,3 +37,4 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 15. [In Loco](https://github.com/MinisterioPublicoRJ/inloco)
 16. [ServeRest](https://github.com/PauloGoncalvesBH/serverest)
 17. [Video Maker](https://github.com/filipedeschamps/video-maker)
+18. [Tech Leads](https://github.com/gabiduarte/awesome-techleads)
