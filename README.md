@@ -1,4 +1,4 @@
-# Repositórios para contribuir
+👩‍💻 # Repositórios para contribuir
 Sugestões de repositórios open source para contribuir na live da Comunidade SysAdminas.
 
 | Repositório | Linguagens |
