@@ -36,6 +36,7 @@ Então, dá uma olhada na lista abaixo. :)
 | [Rancher](https://github.com/rancher/rancher) | Go e Python |
 | [Suse](https://github.com/openSUSE) | Python, Shell, Ruby, C e Perl |
 | [VSCode](https://github.com/Microsoft/vscode) | TypeScript e JavaScript |
+| [Jenkins](https://github.com/jenkinsci/jenkins) | Java |
 
 
 
