@@ -16,6 +16,8 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [Piyush Mehta's HomePage](https://github.com/piyush97/PiyushMehta.com) | JavaScript |
 | [Laravel Served](https://github.com/sinnbeck/laravel-served) | PHP |
 | [Emerald Web Framework](https://github.com/stone-payments/emerald-web-framework/issues) | JavaScript |
+| [huskyCI](https://github.com/globocom/huskyCI/labels/hacktoberfest) | Go |
+| [secDevLabs](https://github.com/globocom/secDevLabs/labels/hacktoberfest) | PHP |
 
 # Produtos Open Source
 Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas do mundo inteiro? 
