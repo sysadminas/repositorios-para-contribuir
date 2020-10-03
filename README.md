@@ -20,12 +20,9 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 
 ## Repositórios separados por linguagem ##
 
-JavaScript
-
-1. [ServeRest](https://github.com/PauloGoncalvesBH/serverest)
-
-
-C++
-
-1. [Code with love] (https://github.com/SanjayDevTech/Code-with-love)
-
+| Repositório | Linguagem |
+| ------ | ------ |
+| [ServeRest](https://github.com/PauloGoncalvesBH/serverest) | JavaScript |
+| [Code with love](https://github.com/SanjayDevTech/Code-with-love) | C#, Java, Python, PHP, JavaScript |
+| [Material Design In Xaml Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | C# |
+| [Hackerrank_30daysOFcode](https://github.com/rahulsain3000/Hackerrank_30daysOFcode) | [Java, C#, C++ Go |
