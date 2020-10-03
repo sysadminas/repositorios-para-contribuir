@@ -15,6 +15,7 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [PHPWomen](https://github.com/phpwomenbr/site) | PHP |
 | [Piyush Mehta's HomePage](https://github.com/piyush97/PiyushMehta.com) | JavaScript |
 | [Laravel Served](https://github.com/sinnbeck/laravel-served) | PHP |
+| [Emerald Web Framework](https://github.com/stone-payments/emerald-web-framework/issues) | JavaScript |
 
 # Produtos Open Source
 Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas do mundo inteiro? 
