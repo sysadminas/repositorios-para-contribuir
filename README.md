@@ -13,3 +13,5 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [PHPSP](https://github.com/PHPSP/phpsp.org.br)| PHP |
 | [SysAdminas](https://github.com/sysadminas/sysadminas-site) | JavaScript |
 | [PHPWomen](https://github.com/phpwomenbr/site) | PHP |
+| [Piyush Mehta's HomePage](https://github.com/piyush97/PiyushMehta.com) | JavaScript |
+| [Laravel Served](https://github.com/sinnbeck/laravel-served) | PHP |
