@@ -20,6 +20,7 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [secDevLabs](https://github.com/globocom/secDevLabs/labels/hacktoberfest) | PHP |
 | [libvirt-ocp4-provisioner](https://github.com/kubealex/libvirt-ocp4-provisioner) | HCL |
 | [Friends Hack](https://github.com/aman-raza/Friends_Hack) | Python, C++ e JavaScript |
+| [Rpaas Operator](https://github.com/tsuru/rpaas-operator/issues) | Go |
 
 # Produtos Open Source
 Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas do mundo inteiro? 
