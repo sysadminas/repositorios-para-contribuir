@@ -22,6 +22,7 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [Friends Hack](https://github.com/aman-raza/Friends_Hack) | Python, C++ e JavaScript |
 | [Rpaas Operator](https://github.com/tsuru/rpaas-operator/issues) | Go |
 
+
 # Produtos Open Source
 Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas do mundo inteiro? 
 Então, dá uma olhada na lista abaixo. :)
