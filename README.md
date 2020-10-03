@@ -21,7 +21,7 @@ Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas
 Então, dá uma olhada na lista abaixo. :)
 
 
-| Repositório | Linguagem |
+| Repositório | Linguagens |
 | ------ | ------ |
 | [Rocket Chat](https://github.com/RocketChat/) | JavaScript, Java, Objective-C |
 | [Mozilla](https://github.com/mozilla) | JavaScript e Python |
