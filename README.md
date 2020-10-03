@@ -18,6 +18,7 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [Emerald Web Framework](https://github.com/stone-payments/emerald-web-framework/issues) | JavaScript |
 | [huskyCI](https://github.com/globocom/huskyCI/labels/hacktoberfest) | Go |
 | [secDevLabs](https://github.com/globocom/secDevLabs/labels/hacktoberfest) | PHP |
+| [libvirt-ocp4-provisioner](https://github.com/kubealex/libvirt-ocp4-provisioner) | HCL |
 
 # Produtos Open Source
 Tem vontade de contribuir com produtos super conhecidos e utilizados por pessoas do mundo inteiro? 
