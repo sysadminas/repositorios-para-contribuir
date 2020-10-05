@@ -22,3 +22,4 @@ Sugestões de repositórios open source para contribuir na live da Comunidade Sy
 | [Friends Hack](https://github.com/aman-raza/Friends_Hack) | Python, C++ e JavaScript |
 | [Rpaas Operator](https://github.com/tsuru/rpaas-operator/issues) | Go |
 | [Code Cracker](https://github.com/code-cracker/code-cracker) | C# |
+| [He4rtoberfest 2020](https://github.com/he4rtlabs/he4rtoberfest-2020) | JavaScript, PHP e Go |
